@@ -1,0 +1,42 @@
+_repo: Poems-of-Paul-Verlaine_8426
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: McCarter, Henry
+    birthdate: 1864
+    deathdate: 1942
+    gutenberg_agent_id: '34059'
+    url: http://www.gutenberg.org/2009/agents/34059
+  translator:
+    agent_name: Brownell, Gertrude Hall
+    alias: Hall, Gertrude
+    birthdate: 1863
+    deathdate: 1961
+    gutenberg_agent_id: '2737'
+    url: http://www.gutenberg.org/2009/agents/2737
+creator:
+  author:
+    agent_name: Verlaine, Paul
+    alias: Verlaine, Paul Marie
+    birthdate: 1844
+    deathdate: 1896
+    gutenberg_agent_id: '1531'
+    url: http://www.gutenberg.org/2009/agents/1531
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Paul_Verlaine
+    - http://en.wikipedia.org/wiki/Paul_Verlaine
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- Translations into English'
+- GITenberg
+title: Poems of Paul Verlaine
+url: http://www.gutenberg.org/ebooks/8426
